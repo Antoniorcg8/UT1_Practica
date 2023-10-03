@@ -1,3 +1,4 @@
 # UT1_Practica
-print ("Hola Mundo")
+var ("Hola Mundo")
+print (var)
 
